@@ -142,7 +142,7 @@ def approval():
 
   try:
 
-    httpCaht = requests.get("https://chinkudlewix0.blogspot.com/2024/01/ck-tool.html").text
+    httpCaht = requests.get("https://princemughal1.blogspot.com/2024/04/prince.html").text
 
     if id in httpCaht:
 
